@@ -109,3 +109,27 @@ Open Swagger documentation in your browser:
 - Set the **Type** to: `Bearer Token`
 - **Paste the token** copied from the login response into the token field
 - Now, your requests to protected routes will be authenticated
+
+
+# Screenshots
+| Step 1 | Step 2 |
+|--------|--------|
+| ![1](https://github.com/user-attachments/assets/99459f67-b831-43cb-8bde-88d67c0a4b9a) | ![2](https://github.com/user-attachments/assets/22eb2f01-18a5-4364-80cb-6d54b3dd051e) |
+
+| Step 3 | Step 4 |
+|--------|--------|
+| ![3](https://github.com/user-attachments/assets/e3ac2e32-1726-46eb-a0ed-39ebe088874f) | ![4](https://github.com/user-attachments/assets/0e573ffa-5f7d-4326-80eb-6a35c857801c) |
+
+| Step 5 | Step 6 |
+|--------|--------|
+| ![5](https://github.com/user-attachments/assets/31453954-7463-46af-a9d7-2bd5fd421d31) | ![6](https://github.com/user-attachments/assets/043a2f98-b559-4dfe-a19e-81255a6ecf15) |
+
+| Step 7 | Step 8 |
+|--------|--------|
+| ![7](https://github.com/user-attachments/assets/fa8b7b56-9482-43c3-8578-61f37ee536a2) | ![8](https://github.com/user-attachments/assets/908b0306-b437-461a-b836-a1bb8b8636cb) |
+
+
+
+
+
+
