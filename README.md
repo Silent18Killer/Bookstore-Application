@@ -130,6 +130,8 @@ Open Swagger documentation in your browser:
 
 
 
-
-
+<h2>Developer</h2>
+<ul>
+    <li><a href="https://github.com/Silent18Killer">Kaustabh Shit</a></li>
+</ul>
 
