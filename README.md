@@ -1,6 +1,6 @@
 # 📚 Bookstore API
 
-A RESTful API built with **NestJS** and **MongoDB** to manage user authentication and books, featuring JWT-based authorization and Swagger documentation.
+A RESTful API built with **NestJS** and **TensorFlow** to manage user authentication and books, featuring JWT-based authorization and Swagger documentation.
 
 ---
 
@@ -111,7 +111,7 @@ Open Swagger documentation in your browser:
 - Now, your requests to protected routes will be authenticated
 
 
-# Screenshots
+# Project Overview
 | Step 1 | Step 2 |
 |--------|--------|
 | ![1](https://github.com/user-attachments/assets/99459f67-b831-43cb-8bde-88d67c0a4b9a) | ![2](https://github.com/user-attachments/assets/22eb2f01-18a5-4364-80cb-6d54b3dd051e) |
